@@ -1,8 +1,5 @@
 # 2f-ST2-Model
-Architecture and Analysis Codes of 2-feature Simultaneous Type/ Serial Token Model
-
-# Note for Editors & Reviewers
-Please email me at m.hosseini@fz-juelich.de if you would like to get the code files.
+Architecture and Analysis Codes of 2-feature Simultaneous Type/ Serial Token Model as presented in our [preprint on biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.07.749788v1)
 
 # Folder Overview
 ## 2fST2 (main model architecture here)

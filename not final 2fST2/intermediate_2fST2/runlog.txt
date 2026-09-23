@@ -1,0 +1,165 @@
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 21 for lag 1
+Bound response 20 for lag 2
+Bound response 21 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+token 1: response item 21 bound to binder 21.
+Lag 3...
+Lag 4...
+Bound response 22 for lag 1
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3\evaltargs.m',56,1)">56  </a>        disp([sprintf('Multiple response binding %d for lag %d: ', multbind, i) num2str(respbindings') sprintf(' resolved to %d.', T1resp(i))]);
+ disp([sprintf('Multiple response binding %d for lag %d: ', multbind, i) num2str(respbindings') sprintf(' resolved to %d.', T1resp(i))]);
+Multiple response binding 1 for lag 2: 20  21 resolved to 21.
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    21
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    20
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    21
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    21
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    20
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    20
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    21
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    21
+
+multbindings(ceil(rand * length(multbindings)))
+
+ans =
+
+    21
+
+i
+
+i =
+
+     2
+
+open runRSVP
+open runModel
+open bigbattery
+nan
+
+ans =
+
+   NaN
+
+nan(NUMSTREAMS, NUMITEMS)
+{Unrecognized function or variable 'NUMITEMS'.
+} 
+nan(4, 25)
+
+ans =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+test = respbindings(respbindings=~20)
+ test = respbindings(respbindings=~20)
+                                 ↑
+{Error: Incorrect use of '=' operator. To assign a value to a variable, use '='. To compare values for equality, use '=='.
+} 
+test = respbindings(respbindings~=20)
+
+test =
+
+    21
+
+t = test(test~=21)
+
+t =
+
+     []
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+Multiple response binding 1 for lag 2: 20  21 resolved to 21.
+No response bound for lag 3.
+No response bound for lag 4.
+
+341 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+{Error: <a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',73,11)">File: runRSVP.m Line: 73 Column: 11</a>
+Invalid expression. Check for missing or extra characters.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3\bigbattery.m', 305)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3\bigbattery.m',305,0)">line 305</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3\runModel.m', 133)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3\runModel.m',133,0)">line 133</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3\bigbattery.m',305,0)
+runModel(1,0,0,100,0,24,0,4,0,0)

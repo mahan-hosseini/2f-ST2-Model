@@ -1,0 +1,2479 @@
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+{Error: <a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)">File: architecture.m Line: 622 Column: 73</a>
+Invalid expression. Check for missing or extra characters.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 54)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',54,0)">line 54</a>)
+architecture    %setup the network
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',54,0)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+{Error: <a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)">File: architecture.m Line: 622 Column: 73</a>
+Invalid expression. Check for missing or extra characters.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 54)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',54,0)">line 54</a>)
+architecture    %setup the network
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',54,0)
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',54,0)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',54,1)">54  </a>architecture    %setup the network
+architecture
+{Error: <a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)">File: architecture.m Line: 622 Column: 73</a>
+Invalid expression. Check for missing or extra characters.
+} 
+architecture
+{Error: <a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)">File: architecture.m Line: 622 Column: 73</a>
+Invalid expression. Check for missing or extra characters.
+} 
+which architecture
+C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m
+open startup
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\architecture.m',622,73)
+if system_dependent('IsDebugMode')==1, dbquit; end
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',230,1)">230 </a>    T2ExPostsynHistory = zeros(numTcombi,NUMSTREAMS,runlength,NUMLAYERS);
+if system_dependent('IsDebugMode')==1, dbquit all; end
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',231,1)">231 </a>    T2ExPostsynHistory = zeros(numTcombi,NUMSTREAMS,runlength,NUMLAYERS);
+if system_dependent('IsDebugMode')==1, dbquit all; end
+runModel(1,0,0,100,0,24,0,4,0,2)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING EACH NEURON'S MEMBRANE POTENTIAL ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',216,1)">216 </a>        VMFull_basic = zeros(numTcombi,NUMSTREAMS,runlength,NUMLAYERS, 100); 
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zeros')" style="font-weight:bold">zeros</a>
+Requested 343x4x700x22x100 (15.7GB) array exceeds maximum array size preference. Creation of arrays greater than this limit may take a long time and cause MATLAB to
+become unresponsive.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 216)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',216,0)">line 216</a>)
+        VMFull_basic = zeros(numTcombi,NUMSTREAMS,runlength,NUMLAYERS, 100);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+
+<a href="matlab:helpview('matlab','error_array_SizeLimitExceeded')" style="font-weight:bold">Related documentation</a>
+} 
+runModel(1,0,0,100,0,24,0,4,0,2)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',24,1)">24  </a>if SaveNeurAct == 1
+if system_dependent('IsDebugMode')==1, dbquit; end
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',24,1)">24  </a>if SaveNeurAct == 1
+if system_dependent('IsDebugMode')==1, dbquit; end
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',233,1)">233 </a>    T2ExPostsynHistory = zeros(numTcombi,NUMSTREAMS,runlength,NUMLAYERS);
+if system_dependent('IsDebugMode')==1, dbquit; end
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+{Error: <a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',73,11)">File: runRSVP.m Line: 73 Column: 11</a>
+Invalid expression. Check for missing or extra characters.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',73,11)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 269)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',269,0)">line 269</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+{A null assignment can have only one non-colon index.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaltargs', 'C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m', 20)" style="font-weight:bold">evaltargs</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',20,0)">line 20</a>)
+guesses(NUMSTREAMS,NUMITEMS) = []; % 4 ("lags") x 25 (items)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 553)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',553,0)">line 553</a>)
+evaltargs;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',20,0)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+{A null assignment can have only one non-colon index.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaltargs', 'C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m', 20)" style="font-weight:bold">evaltargs</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',20,0)">line 20</a>)
+guesses(1:NUMSTREAMS,1:NUMITEMS) = []; % 4 ("lags") x 25 (items)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 553)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',553,0)">line 553</a>)
+evaltargs;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',20,0)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',360,1)">360 </a>                    if false %if(onetarg) SRIVAS
+if system_dependent('IsDebugMode')==1, dbquit all; end
+test = nan
+
+test =
+
+   NaN
+
+length(test)
+
+ans =
+
+     1
+
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',365,1)">365 </a>                    if false %if(onetarg) SRIVAS
+if system_dependent('IsDebugMode')==1, dbcont; end
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 24 bound to binder 24.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 24 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+341 target combinations left in basic condition.
+if system_dependent('IsDebugMode')==1, dbcont; end
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+340 target combinations left in basic condition.
+if system_dependent('IsDebugMode')==1, dbcont; end
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Bound response 20 for lag 1
+No response bound for lag 2.
+Multiple response binding 1 for lag 3: 1  20 resolved to 20.
+{Unrecognized function or variable 'multbinds'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaltargs', 'C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m', 80)" style="font-weight:bold">evaltargs</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',80,0)">line 80</a>)
+        thistrial_guesses(1,1:length(multbinds)) = [];              % initialise empty array
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 553)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',553,0)">line 553</a>)
+evaltargs;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',80,0)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 24 bound to binder 24.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 24 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+341 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+340 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Bound response 20 for lag 1
+No response bound for lag 2.
+Multiple response binding 1 for lag 3: 1  20 resolved to 20.
+{A null assignment can have only one non-colon index.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaltargs', 'C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m', 80)" style="font-weight:bold">evaltargs</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',80,0)">line 80</a>)
+        thistrial_guesses(1,1:length(multbindings)) = [];              % initialise empty array
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 553)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',553,0)">line 553</a>)
+evaltargs;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',80,0)
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 24 bound to binder 24.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 24 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+341 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+340 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Bound response 20 for lag 1
+No response bound for lag 2.
+Multiple response binding 1 for lag 3: 1  20 resolved to 20.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zeros')" style="font-weight:bold">zeros</a>
+Size inputs must be scalar.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaltargs', 'C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m', 80)" style="font-weight:bold">evaltargs</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',80,0)">line 80</a>)
+        thistrial_guesses = zeros(1,1:length(multbindings));        % initialise empty array
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 553)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',553,0)">line 553</a>)
+evaltargs;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 206)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',206,0)">line 206</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+runModel(1,0,0,100,0,24,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 24.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 24 bound to binder 24.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 24 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+341 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+340 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Bound response 20 for lag 1
+No response bound for lag 2.
+Multiple response binding 1 for lag 3: 1  20 resolved to 20.
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',80,1)">80  </a>        thistrial_guesses = zeros(1,length(multbindings));        % initialise empty array 
+thistrial_guesses = zeros(1,length(multbindings))
+
+thistrial_guesses =
+
+     0     0
+
+ thistrial_guesses(1) = T1resp(i)
+
+thistrial_guesses =
+
+    20     0
+
+num2guess = length(respbindings) - 2
+
+num2guess =
+
+     0
+
+thistrial_guesses(end) = respbindings(respbindings~=T1resp(i))
+
+thistrial_guesses =
+
+    20     1
+
+guesses(i,1:length(thistrial_guesses)) = thistrial_guesses
+
+guesses =
+
+    20   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+    20     1   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+No response bound for lag 4.
+
+339 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 24 bound to binder 24.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 24 for lag 3
+Bound response 21 for lag 4
+
+338 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+Bound response 22 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+337 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 17 bound to binder 17.
+token 1: response item 21 bound to binder 21.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 23 bound to binder 23.
+Lag 4...
+Multiple response binding 2 for lag 1: 17  21 resolved to 17.
+Bound response 1 for lag 2
+Bound response 23 for lag 3
+No response bound for lag 4.
+
+336 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+335 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+Bound response 20 for lag 1
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+334 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+Bound response 20 for lag 2
+Bound response 20 for lag 3
+Bound response 20 for lag 4
+
+333 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+Bound response 20 for lag 2
+Bound response 22 for lag 3
+Bound response 20 for lag 4
+
+332 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 22 for lag 3
+Bound response 20 for lag 4
+
+331 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 2...
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 22 for lag 1
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+330 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Multiple response binding 3 for lag 1: 1  20 resolved to 20.
+Bound response 20 for lag 2
+No response bound for lag 3.
+Bound response 21 for lag 4
+
+329 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+Bound response 22 for lag 2
+Bound response 22 for lag 3
+Bound response 20 for lag 4
+
+328 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Multiple response binding 4 for lag 1: 1  20 resolved to 1.
+Bound response 1 for lag 2
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+327 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 21 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+326 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+Multiple response binding 5 for lag 2: 1  20 resolved to 1.
+No response bound for lag 3.
+Bound response 20 for lag 4
+
+325 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+324 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+323 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+token 1: response item 22 bound to binder 22.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Multiple response binding 6 for lag 1: 20  22 resolved to 22.
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+322 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 23 bound to binder 23.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 4...
+Bound response 20 for lag 1
+Bound response 23 for lag 2
+Bound response 21 for lag 3
+No response bound for lag 4.
+
+321 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 24 bound to binder 24.
+No response bound for lag 1.
+Bound response 22 for lag 2
+Bound response 22 for lag 3
+Bound response 24 for lag 4
+
+320 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 21 for lag 1
+No response bound for lag 2.
+Bound response 22 for lag 3
+Bound response 1 for lag 4
+
+319 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 1 for lag 1
+Bound response 20 for lag 2
+Bound response 21 for lag 3
+Bound response 1 for lag 4
+
+318 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+317 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 4...
+No response bound for lag 1.
+Bound response 21 for lag 2
+Bound response 21 for lag 3
+No response bound for lag 4.
+
+316 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 21 for lag 4
+
+315 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 22 bound to binder 22.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 23 bound to binder 23.
+Lag 4...
+Bound response 22 for lag 1
+No response bound for lag 2.
+Bound response 23 for lag 3
+No response bound for lag 4.
+
+314 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+313 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Bound response 21 for lag 1
+Bound response 1 for lag 2
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+312 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 23 bound to binder 23.
+No response bound for lag 1.
+Bound response 21 for lag 2
+Bound response 21 for lag 3
+Bound response 23 for lag 4
+
+311 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+310 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Bound response 21 for lag 1
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+309 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 265)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',265,0)">line 265</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+runModel(1,0,0,100,0,0,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 0.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Bound response 1 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+Multiple response binding 1 for lag 4: 1  20 resolved to 20.
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+341 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+340 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+339 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+338 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+337 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 17 bound to binder 17.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Multiple response binding 2 for lag 1: 1  17 resolved to 1.
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+336 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 2...
+Lag 3...
+Lag 4...
+Multiple response binding 3 for lag 1: 1  19 resolved to 1.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+335 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+334 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 20 for lag 2
+Bound response 20 for lag 3
+Bound response 1 for lag 4
+
+333 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 1 for lag 2
+Bound response 20 for lag 3
+Bound response 1 for lag 4
+
+332 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 1 for lag 3
+Bound response 20 for lag 4
+
+331 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 1 for lag 1
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+330 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+329 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+328 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+327 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 1 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+326 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+No response bound for lag 1.
+Bound response 1 for lag 2
+No response bound for lag 3.
+Multiple response binding 4 for lag 4: 1  19 resolved to 1.
+
+325 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+324 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+323 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 1 for lag 1
+Bound response 19 for lag 2
+Bound response 19 for lag 3
+Bound response 1 for lag 4
+
+322 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Multiple response binding 5 for lag 1: 1  20 resolved to 20.
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+321 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+320 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Bound response 1 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+319 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Multiple response binding 6 for lag 1: 1  19 resolved to 19.
+Bound response 20 for lag 2
+Bound response 20 for lag 3
+Bound response 1 for lag 4
+
+318 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+317 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 21 bound to binder 21.
+Lag 4...
+No response bound for lag 1.
+Bound response 20 for lag 2
+Bound response 21 for lag 3
+No response bound for lag 4.
+
+316 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5260; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+315 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 1 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+314 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 1 for lag 3
+Bound response 20 for lag 4
+
+313 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 1 for lag 1
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+312 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Bound response 1 for lag 2
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+311 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+310 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+Bound response 20 for lag 1
+No response bound for lag 2.
+Bound response 1 for lag 3
+No response bound for lag 4.
+
+309 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.5540; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 3...
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 264)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',264,0)">line 264</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+open architecture
+runModel(1,0,0,100,0,0,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 0.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Multiple response binding 1 for lag 1: 1  19  20 resolved to 20.
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',89,1)">89  </a>                guessarray = multbindings(multbindings~=T1resp(1));           % throw out response for array to guess on
+guessarray = multbindings(multbindings~=T1resp(1))
+
+guessarray =
+
+     1
+    19
+
+                for g = 1:num2guess                                           % for all guesses
+                    thisguess =  guessarray(ceil(rand * length(guessarray))); % make the guess (exactly how response was chosen)
+                    thistrial_guesses(1+g) = thisguess;                       % assign to this trial's guesses
+                    guessarray = guessarray(guessarray~=thisguess);           % throw out the guess just made
+                end
+guessarray
+
+guessarray =
+
+     1
+
+num2guess
+
+num2guess =
+
+     1
+
+respbindings
+
+respbindings =
+
+     1
+    19
+    20
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+No response bound for lag 2.
+Bound response 1 for lag 3
+Multiple response binding 2 for lag 4: 1  20 resolved to 1.
+
+342 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+Multiple response binding 3 for lag 2: 1  19 resolved to 19.
+Bound response 1 for lag 3
+Bound response 1 for lag 4
+
+341 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 20 for lag 3
+No response bound for lag 4.
+
+340 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+Multiple response binding 4 for lag 1: 1  20 resolved to 1.
+No response bound for lag 2.
+Multiple response binding 5 for lag 3: 1  20 resolved to 1.
+No response bound for lag 4.
+
+339 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+No response bound for lag 1.
+No response bound for lag 2.
+Multiple response binding 6 for lag 3: 1  20 resolved to 1.
+Bound response 1 for lag 4
+
+338 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+No response bound for lag 1.
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+337 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 17 bound to binder 17.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 4...
+Multiple response binding 7 for lag 1: 1  17 resolved to 1.
+Bound response 1 for lag 2
+Multiple response binding 8 for lag 3: 1  19 resolved to 1.
+No response bound for lag 4.
+
+336 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 2...
+Lag 3...
+Lag 4...
+Multiple response binding 9 for lag 1: 1  19 resolved to 19.
+No response bound for lag 2.
+No response bound for lag 3.
+No response bound for lag 4.
+
+335 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+Lag 4...
+Multiple response binding 10 for lag 1: 1  20 resolved to 1.
+Bound response 1 for lag 2
+No response bound for lag 3.
+No response bound for lag 4.
+
+334 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.4980; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+Multiple response binding 11 for lag 2: 1  20 resolved to 1.
+Multiple response binding 12 for lag 3: 19  20 resolved to 20.
+Multiple response binding 13 for lag 4: 1  20 resolved to 20.
+
+333 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5260; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+Multiple response binding 14 for lag 2: 1  20 resolved to 20.
+Bound response 20 for lag 3
+Multiple response binding 15 for lag 4: 1  20 resolved to 20.
+
+332 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5540; Others: 0.5260
+
+Lag 1...
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+No response bound for lag 1.
+No response bound for lag 2.
+Bound response 1 for lag 3
+Multiple response binding 16 for lag 4: 1  20 resolved to 20.
+
+331 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.5820; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Multiple response binding 17 for lag 1: 1  20 resolved to 1.
+No response bound for lag 2.
+No response bound for lag 3.
+Bound response 1 for lag 4
+
+330 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4700; Intruder: 0.6100; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Lag 3...
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Multiple response binding 18 for lag 1: 1  19 resolved to 1.
+Multiple response binding 19 for lag 2: 1  20 resolved to 1.
+No response bound for lag 3.
+Multiple response binding 20 for lag 4: 1  19 resolved to 1.
+
+329 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+Lag 2...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 18 bound to binder 18.
+No response bound for lag 1.
+Bound response 1 for lag 2
+Multiple response binding 21 for lag 3: 1  19 resolved to 19.
+Multiple response binding 22 for lag 4: 1  18 resolved to 18.
+
+328 target combinations left in basic condition.
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4980; Intruder: 0.4700; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+Lag 2...
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runRSVP', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m', 264)" style="font-weight:bold">runRSVP</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runRSVP.m',264,0)">line 264</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bigbattery', 'C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m', 308)" style="font-weight:bold">bigbattery</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\bigbattery.m',308,0)">line 308</a>)
+                    runRSVP(BASICRSVP,lag)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 206)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',206,0)">line 206</a>)
+    bigbattery
+} 
+runModel(1,0,0,100,0,0,0,4,0,0)
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
+Using 100 ms SOA. 25 items in stream. 1 target only. RSVP stream.
+Total of 4927 weights created.
+key pathway delay = 0.
+response pathway delay = 0.
+random delay SD = 4.
+*** SAVING ONLY LAYERWIDE ACTS ***
+Key inputs range from 0.4420 to 0.6100.
+Response inputs range from 0.4420 to 0.6100.
+Number of trials to run: 343
+
+Key - Target: 0.4420; Distractors: 0.5260
+Response - Target 0.4420; Intruder: 0.4420; Others: 0.5260
+
+Lag 1...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 19 bound to binder 19.
+token 1: response item 20 bound to binder 20.
+Lag 2...
+Lag 3...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+Lag 4...
+token 1: key item 1 bound to binder 1.
+token 1: response item 1 bound to binder 1.
+token 1: response item 20 bound to binder 20.
+Multiple response binding 1 for lag 1: 1  19  20 resolved to 20.
+<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\evaltargs.m',89,1)">89  </a>                guessarray = multbindings(multbindings~=T1resp(1));           % throw out response for array to guess on
+if system_dependent('IsDebugMode')==1, dbcont; end
+No response bound for lag 2.
+Bound response 1 for lag 3
+Multiple response binding 2 for lag 4: 1  20 resolved to 1.
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+342 target combinations left in basic condition.
+trialcounter
+
+trialcounter =
+
+     1
+
+allguesses(trialcounter,:,:)
+
+ans(:,:,1) =
+
+    20   NaN     1     1
+
+
+ans(:,:,2) =
+
+    19   NaN   NaN    20
+
+
+ans(:,:,3) =
+
+     1   NaN   NaN   NaN
+
+
+ans(:,:,4) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,5) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,6) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,7) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,8) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,9) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,10) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,11) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,12) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,13) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,14) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,15) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,16) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,17) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,18) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,19) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,20) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,21) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,22) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,23) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,24) =
+
+   NaN   NaN   NaN   NaN
+
+
+ans(:,:,25) =
+
+   NaN   NaN   NaN   NaN
+
+open ans
+if system_dependent('IsDebugMode')==1, dbquit; end
+runModel(1,0,0,100,0,0,0,4,0,0)
+{'runModel' is not found in the current folder or on the MATLAB path, but exists in:
+    C:\Users\Mah\Documents\Matlab_util\2fST2
+    C:\Users\Mah\Documents\Matlab_util\2fST2_vChapter3
+
+Change the MATLAB current folder or add its folder to the MATLAB path.
+} 
+addpath C:\Users\Mah\Documents\Matlab_util\2fST2
+runModel(1,0,0,100,0,0,0,4,0,0)
+[Warning: File 'runlog.txt' not found.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('runModel', 'C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m', 92)" style="font-weight:bold">runModel</a> (<a href="matlab: opentoline('C:\Users\Mah\Documents\Matlab_util\2fST2\runModel.m',92,0)">line 92</a>)] 
